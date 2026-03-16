@@ -21,10 +21,8 @@ Languages
 Swift, Java, Python, JavaScript
 
 Areas
-Product Ownership
-AI
-Sports Analytics 
-Web Development  
+
+Product Ownership, AI, Sports Analytics, Web Development  
 
 ## Interests
 Running, playing golf, and building things!
