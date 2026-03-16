@@ -17,10 +17,10 @@ Apps and assignments built while learning visual analytics.
 
 ## Skills
 
-Languages
+• Languages
 Swift, Java, Python, JavaScript
 
-Areas
+• Areas
 
 Product Ownership, AI, Sports Analytics, Web Development  
 
