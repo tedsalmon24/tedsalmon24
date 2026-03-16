@@ -18,6 +18,7 @@ Apps and assignments built while learning visual analytics.
 ## Skills
 
 • Languages
+
 Swift, Java, Python, JavaScript
 
 • Areas
