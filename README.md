@@ -7,7 +7,7 @@ AI • Sports Analytics • iOS Development
 ## Current Projects
 
 • Predictive Market Assistant  
-Personal project analyzing sports data and predictive models.
+AI-powered web app for sports data analysis and prediction.
 
 • Swift iOS Projects  
 Apps and assignments built while learning iOS development.
@@ -21,7 +21,8 @@ Languages
 Swift, Java, Python, JavaScript
 
 Areas
-AI / Machine Learning  
+Product Ownership
+AI
 Sports Analytics 
 Web Development  
 
