@@ -1,6 +1,7 @@
 # Ted Salmon
 
 Computer Science Graduate Student
+
 AI • Sports Analytics • iOS Development
 
 ## Current Projects
