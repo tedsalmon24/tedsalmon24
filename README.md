@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ted Salmon
 
-<!--
-**tedsalmon24/tedsalmon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate Student  
+AI • Sports Analytics • iOS Development
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Predictive Market Assistant  
+Personal project analyzing sports data and predictive models.
+
+• Swift iOS Projects  
+Apps and assignments built while learning iOS development.
+
+## Skills
+
+Languages
+Swift, Java, Python, JavaScript
+
+Areas
+AI / Machine Learning  
+Sports Analytics 
+Web Development  
+
+## Interests
+Running, playing golf, and building things!
