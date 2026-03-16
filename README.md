@@ -11,6 +11,9 @@ Personal project analyzing sports data and predictive models.
 • Swift iOS Projects  
 Apps and assignments built while learning iOS development.
 
+• Visual Analytics Projects  
+Apps and assignments built while learning visual analytics.
+
 ## Skills
 
 Languages
