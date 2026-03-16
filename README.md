@@ -1,6 +1,6 @@
 # Ted Salmon
 
-Computer Science Graduate Student
+Product Owner • CS Graduate Student
 
 AI • Sports Analytics • iOS Development
 
