@@ -1,6 +1,6 @@
 # Ted Salmon
 
-Computer Science Graduate Student  
+Computer Science Graduate Student • Product Owner • Washedup Athlete
 AI • Sports Analytics • iOS Development
 
 ## Current Projects
