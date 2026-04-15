@@ -27,4 +27,4 @@ Python, JavaScript, Swift
 Product Ownership, AI, Sports Analytics, Web Development  
 
 ## Interests
-Running, playing golf, and building things!
+Competitive Running, Golf, and building things!
