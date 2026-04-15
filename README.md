@@ -2,7 +2,7 @@
 
 Product Owner • CS Graduate Student
 
-AI • Sports Analytics • iOS Development
+Sports Analytics • AI • iOS Development
 
 ## Current Projects
 
