@@ -15,7 +15,6 @@ Apps and assignments built while learning iOS development.
 • Visual Analytics Projects  
 Apps and assignments built while learning visual analytics.
 
-[Current projects are set to private]
 
 ## Skills
 
